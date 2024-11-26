@@ -1,4 +1,4 @@
-                                 *****************S3, LAMBDA, and SNS NOTIFICATION PROJECT*****************
+                                                  S3, LAMBDA, and SNS NOTIFICATION PROJECT
 
 
 This project demonstrates how to set up an AWS-based solution to monitor changes in an S3 bucket and notify users via email using AWS services. The system leverages the following AWS components:
