@@ -15,7 +15,7 @@ Here's a step-by-step guide to implement a project that integrates Amazon S3, AW
 
 1. Create an S3 Bucket
 
--Log in to AWS Management Console.
+-Log in to AWS Management Console. Open the [AWS Management Console](https://aws.amazon.com/console/)
 
 -Navigate to the S3 service.
 
